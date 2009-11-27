@@ -1,6 +1,6 @@
-T language instruction
+Bamboo language instruction
 
-2009.6.15
+2009.11.27
 Tang Gang
 xenyinzen@gmail.com
 
